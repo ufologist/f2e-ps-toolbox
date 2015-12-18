@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpc defaultLocale="zh_CN" version="4" keySequence="46" currentLocale="zh_CN">
+  <product appid="PHSP" version="13" name="Photoshop CS6"/>
+  <target id="PHSP-13"/>
+  <ConfiguratorPanel name="前端 PS 切图常用工具箱" width="220" height="220" init="doInit" close="doClose" persistent="true" normalIcon="res/icon.png" darkNormalIcon="res/icon-dark.png" extensionId="F2ePsToolbox" extensionVersion="0.1.0" menuName="前端 PS 切图常用工具箱" flyoutMenuAbout="$$$/Configurator/FlyoutMenu/about">
+    <onInit><![CDATA[]]></onInit>
+    <aboutBox><![CDATA[]]></aboutBox>
+    <extensionDescription><![CDATA[前端 PS 切图常用工具箱You can access it from Window > Extension > 前端 PS 切图常用工具箱<a href="https://github.com/ufologist/f2e-ps-toolbox">https://github.com/ufologist/f2e-ps-toolbox</a>]]></extensionDescription>
+    <extensionAuthor><![CDATA[Sun]]></extensionAuthor>
+    <onClose><![CDATA[]]></onClose>
+    <eventListeners>
+      <function id="doInit" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onInit"/>
+      </function>
+      <function id="doClose" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onClose"/>
+      </function>
+    </eventListeners>
+    <ps_tool _selectID="rulerTool" _itemId="Tool-Ruler_Tool" icon="SP_Measure_Lg_N" overIcon="SP_Measure_Lg_N_D" toolTip="$$$/Tool-Ruler_Tool/desc" scriptID="Tool-Ruler_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###3" width="29" height="26" x="47" y="44">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="sliceSelectTool" _itemId="Tool-Slice_Select_Tool" icon="SP_SliceSelect_Lg_N" overIcon="SP_SliceSelect_Lg_N_D" toolTip="$$$/Tool-Slice_Select_Tool/desc" scriptID="Tool-Slice_Select_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###6" width="29" height="26" x="85" y="44">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="eyedropperTool" _itemId="Tool-Eyedropper_Tool" icon="SP_Sampler_Lg_N" overIcon="SP_Sampler_Lg_N_D" toolTip="$$$/Tool-Eyedropper_Tool/desc" scriptID="Tool-Eyedropper_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###4" width="29" height="26" x="47" y="10">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="moveTool" _itemId="Tool-Move_Tool" icon="SP_Move_Lg_N" overIcon="SP_Move_Lg_N_D" toolTip="$$$/Tool-Move_Tool/desc" scriptID="Tool-Move_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###1" width="29" height="26" x="10" y="10">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="sliceTool" _itemId="Tool-Slice_Tool" icon="SP_Slice_Lg_N" overIcon="SP_Slice_Lg_N_D" toolTip="$$$/Tool-Slice_Tool/desc" scriptID="Tool-Slice_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###5" width="29" height="26" x="84" y="10">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="marqueeRectTool" _itemId="Tool-Rectangular_Marquee_Tool" icon="SP_RectSelect_Lg_N" overIcon="SP_RectSelect_Lg_N_D" toolTip="$$$/Tool-Rectangular_Marquee_Tool/desc" scriptID="Tool-Rectangular_Marquee_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###31" width="29" height="26" x="10" y="44">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="handTool" _itemId="Tool-Hand_Tool" icon="SP_Pan_Lg_N" overIcon="SP_Pan_Lg_N_D" toolTip="$$$/Tool-Hand_Tool/desc" scriptID="Tool-Hand_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###7" width="29" height="26" x="10" y="78">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="zoomTool" _itemId="Tool-Zoom_Tool" icon="SP_Magnification_Lg_N" overIcon="SP_Magnification_Lg_N_D" toolTip="$$$/Tool-Zoom_Tool/desc" scriptID="Tool-Zoom_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###8" width="29" height="26" x="10" y="112">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <html _itemId="widget_html" toolTip="$$$/Configurator/Widget/HTML/desc" backwardToolTip="$$$/Configurator/Widget/HTML/backwardToolTip" forwardToolTip="$$$/Configurator/Widget/HTML/forwardToolTip" browseListToolTip="$$$/Configurator/Widget/HTML/browseListToolTip" locationTextToolTip="$$$/Configurator/Widget/HTML/locationTextToolTip" offlinePromptTitle="$$$/Configurator/Widget/HTML/offlinePromptTitle" offlinePromptDetail="$$$/Configurator/Widget/HTML/offlinePromptDetail" netUnAvailablePromptTitle="$$$/Configurator/Widget/HTML/netUnAvailablePromptTitle" netUnAvailablePromptDetail="$$$/Configurator/Widget/HTML/netUnAvailablePromptDetail" loadingText="$$$/Configurator/Widget/HTML/loadingText" homeText="$$$/Configurator/Widget/HTML/homeText" reloadText="$$$/Configurator/Widget/HTML/reloadText" reloadLabel="$$$/Configurator/Widget/HTML/reloadLabel" escCloseText="$$$/Configurator/Widget/HTML/escCloseText" showNavBar="$$$/Configurator/Attribute/showNavBar/value###42" location="$$$/Configurator/key_###43" homeLocation="$$$/Configurator/key_###44" width="125" height="21" cfgVisible="$$$/Configurator/Attribute/visible/value###45" x="85" y="189">
+      <htmlText><![CDATA[$$$/Configurator/key_###46]]></htmlText>
+    </html>
+  </ConfiguratorPanel>
+</gpc>

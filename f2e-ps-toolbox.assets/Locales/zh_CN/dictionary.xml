@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="zh_CN" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/Attribute/showNavBar/value###32" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/showNavBar/value###42" translate="yes">
+    <val>false</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###1" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###10" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###11" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###14" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###16" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###19" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###2" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###21" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###22" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###23" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###24" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###25" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###27" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###29" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###3" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###30" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###31" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###35" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###37" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###4" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###41" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###45" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###5" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###6" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###7" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###8" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###9" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/Canvas/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/TabNavigator/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/TabNavigator/dropListLabel###17" translate="yes">
+    <val>选择一页:</val>
+  </str>
+  <str name="Configurator/Container/VBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/VDividedBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/FlyoutMenu/about" translate="yes">
+    <val>关于</val>
+  </str>
+  <str name="Configurator/key_###12" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###13" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###15" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###20" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###26" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###28" translate="yes">
+    <val>前端切图常用工具箱</val>
+  </str>
+  <str name="Configurator/key_###33" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###34" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###36" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###38" translate="yes">
+    <val>&lt;a href="a"&gt;aaaaaa&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/key_###40" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###43" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###44" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###46" translate="yes">
+    <val>&lt;style&gt;html {   background-color: #535353;}a {  text-decoration: none;   text-align: right;  color: #374852;}&lt;/style&gt;&lt;a href="https://github.com/ufologist/f2e-ps-toolbox" target="_blank"&gt;f2e-ps-toolbox&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/TabNavigator/Canvas###18" translate="yes">
+    <val>选项卡 1</val>
+  </str>
+  <str name="Configurator/watermark/htmlText" translate="yes">
+    <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;使用 Configurator 创建&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/watermark/width" translate="yes">
+    <val>122</val>
+  </str>
+  <str name="Configurator/watermark/x" translate="yes">
+    <val>98</val>
+  </str>
+  <str name="Configurator/Widget/HRule/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/HTML/backwardToolTip" translate="yes">
+    <val>返回上一页</val>
+  </str>
+  <str name="Configurator/Widget/HTML/browseListToolTip" translate="yes">
+    <val>显示历史记录列表</val>
+  </str>
+  <str name="Configurator/Widget/HTML/desc" translate="yes">
+    <val>HTML</val>
+  </str>
+  <str name="Configurator/Widget/HTML/escCloseText" translate="yes">
+    <val>按 Esc 键关闭</val>
+  </str>
+  <str name="Configurator/Widget/HTML/forwardToolTip" translate="yes">
+    <val>前往下一页</val>
+  </str>
+  <str name="Configurator/Widget/HTML/homeText" translate="yes">
+    <val>主页</val>
+  </str>
+  <str name="Configurator/Widget/HTML/loadingText" translate="yes">
+    <val>正在连接...</val>
+  </str>
+  <str name="Configurator/Widget/HTML/locationTextToolTip" translate="yes">
+    <val>输入 URL 并单击 Enter 打开该 URL</val>
+  </str>
+  <str name="Configurator/Widget/HTML/netUnAvailablePromptDetail" translate="yes">
+    <val>要继续操作，请确保您已连接到 Internet，并且您的首选项允许各项服务连接到 Internet，同时还要确保请求的 URL {0} 可用。</val>
+  </str>
+  <str name="Configurator/Widget/HTML/netUnAvailablePromptTitle" translate="yes">
+    <val>未检测到 Internet 连接，或者未能找到所请求的地址。</val>
+  </str>
+  <str name="Configurator/Widget/HTML/offlinePromptDetail" translate="yes">
+    <val>要继续操作，请首先确保您已经连接到 Internet 并且首选项设置允许服务连接到 Internet。</val>
+  </str>
+  <str name="Configurator/Widget/HTML/offlinePromptTitle" translate="yes">
+    <val>未检测到 Internet 连接</val>
+  </str>
+  <str name="Configurator/Widget/HTML/reloadLabel" translate="yes">
+    <val>重新加载</val>
+  </str>
+  <str name="Configurator/Widget/HTML/reloadText" translate="yes">
+    <val>单击以测试连接</val>
+  </str>
+  <str name="Configurator/Widget/PopupPanelButton/desc" translate="yes">
+    <val>弹出式面板</val>
+  </str>
+  <str name="Configurator/Widget/PopupPanelButton/name###39" translate="yes">
+    <val>弹出式面板</val>
+  </str>
+  <str name="Configurator/Widget/Text/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/VRule/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Main-File-New/desc" translate="yes">
+    <val>创建新的 Photoshop 文档</val>
+  </str>
+  <str name="Main-File-New/name" translate="yes">
+    <val>新建</val>
+  </str>
+  <str name="Tool-Crop_Tool/desc" translate="yes">
+    <val>裁剪工具</val>
+  </str>
+  <str name="Tool-Eyedropper_Tool/desc" translate="yes">
+    <val>吸管工具</val>
+  </str>
+  <str name="Tool-Hand_Tool/desc" translate="yes">
+    <val>抓手工具</val>
+  </str>
+  <str name="Tool-Move_Tool/desc" translate="yes">
+    <val>移动工具</val>
+  </str>
+  <str name="Tool-Move_Tool/name" translate="yes">
+    <val>移动工具</val>
+  </str>
+  <str name="Tool-Rectangular_Marquee_Tool/desc" translate="yes">
+    <val>矩形选框工具</val>
+  </str>
+  <str name="Tool-Ruler_Tool/desc" translate="yes">
+    <val>标尺工具</val>
+  </str>
+  <str name="Tool-Single_Row_Marquee_Tool/desc" translate="yes">
+    <val>单行选框工具</val>
+  </str>
+  <str name="Tool-Slice_Select_Tool/desc" translate="yes">
+    <val>切片选择工具</val>
+  </str>
+  <str name="Tool-Slice_Tool/desc" translate="yes">
+    <val>切片工具</val>
+  </str>
+  <str name="Tool-Zoom_Tool/desc" translate="yes">
+    <val>缩放工具</val>
+  </str>
+</asf>
