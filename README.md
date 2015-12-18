@@ -1,7 +1,7 @@
 # f2e-ps-toolbox
-前端 PS 切图常用工具箱 v0.1.0 2015-12-7
+前端 PS 切图常用工具箱 v0.1.0 2015-12-18
 
-图片
+![f2e-ps-toolbox-snapshot](https://raw.githubusercontent.com/ufologist/f2e-ps-toolbox/master/f2e-ps-toolbox-snapshot.png)
 
 万能的 PS 实在太强大了, 作为一名前端工程师, 平时也就切切图, 根本用不到那么多功能(其实是不会用-_-").
 
