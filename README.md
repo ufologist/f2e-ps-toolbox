@@ -12,6 +12,7 @@
 ## 使用方法
 1. [下载 f2e-ps-toolbox.zxp](https://github.com/ufologist/f2e-ps-toolbox/raw/master/f2e-ps-toolbox.zxp) 双击安装
 2. 打开 PS, 在顶部菜单栏中打开扩展工具的面板
+    
     ```
     [窗口] / [扩展功能] / [前端 PS 切图常用工具箱]
     ```
