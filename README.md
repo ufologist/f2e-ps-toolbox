@@ -1,5 +1,5 @@
 # f2e-ps-toolbox
-前端 PS 切图常用工具箱 v0.1.0 2015-12-18
+前端 PS 切图常用工具箱 for Photoshop CS6 v0.1.0 2015-12-18
 
 ![f2e-ps-toolbox-snapshot](https://raw.githubusercontent.com/ufologist/f2e-ps-toolbox/master/f2e-ps-toolbox-snapshot.png)
 
@@ -10,3 +10,12 @@
 于是乎通过[Adobe Configurator](http://labs.adobe.com/downloads/configurator.html "A utility that enables the easy creation of panels (palettes) for use in Adobe Photoshop® CC/CS6")做了个自定义面板(PS 插件)来放置前端常用的切图的工具箱.
 
 ## 使用方法
+1. [下载 f2e-ps-toolbox.zxp](https://github.com/ufologist/f2e-ps-toolbox/raw/master/f2e-ps-toolbox.zxp) 双击安装
+2. 打开 PS, 在顶部菜单栏中打开扩展工具的面板
+    ```
+    [窗口] / [扩展功能] / [前端 PS 切图常用工具箱]
+    ```
+
+## 注意项
+* 不支持 Photoshop CC
+* 必须安装有 Adobe Extension Manager
