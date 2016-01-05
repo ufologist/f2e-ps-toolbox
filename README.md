@@ -24,3 +24,4 @@
 ## 切图教程
 * [前端工程师必备的PS技能——切图篇](http://www.imooc.com/learn/506)
 * [Photoshop CC 与前端那些事](http://isux.tencent.com/ps-photoshop-cc-fd.html)
+* [PS礼仪白皮书](http://hao.uisdc.com/ps/)
