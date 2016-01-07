@@ -25,3 +25,4 @@
 * [前端工程师必备的PS技能——切图篇](http://www.imooc.com/learn/506)
 * [Photoshop CC 与前端那些事](http://isux.tencent.com/ps-photoshop-cc-fd.html)
 * [PS礼仪白皮书](http://hao.uisdc.com/ps/)
+* [PSD to HTML Tutorial: The Only Guide You Need in 2015](http://www.1stwebdesigner.com/psd-to-html)
