@@ -30,3 +30,4 @@
   * [Sketch Measure](https://github.com/utom/sketch-measure) [Spec Export](http://utom.design/news/) 可以导出切片和标注
   * [Sketchpacks](https://sketchpacks.com/browse/popular "Sketch plugin manager. Manage and sync your Sketch plugins across machines and teams")
   * [sketch.im](http://sketch.im/)
+  * [Sketch 有哪些插件值得推荐？ - 知乎](https://www.zhihu.com/question/27495264)
